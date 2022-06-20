@@ -2,7 +2,6 @@ Advancing Nursing Research through Interactive Data Visualization with R
 Shiny
 ================
 Lacey W. Heinsberg
-June 08, 2022, 09:16
 
 # Copyright
 
