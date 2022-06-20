@@ -1,4 +1,4 @@
-Advancing Nursing Research through Dynamic Data Visualization with R
+Advancing Nursing Research through Interactive Data Visualization with R
 Shiny
 ================
 Lacey W. Heinsberg
@@ -18,7 +18,7 @@ programs.
 # About
 
 This repository contains R markdown code for use with “Advancing Nursing
-Research through Dynamic Data Visualization with R Shiny” \[LINK TO
+Research through Interactive Data Visualization with R Shiny” \[LINK TO
 PAPER TO BE ADDED WHEN AVAILABLE\].
 
 The purpose of the paper was to highlight the benefits of R for

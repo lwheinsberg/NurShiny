@@ -1,5 +1,5 @@
 ---
-title: "Advancing Nursing Research through Dynamic Data Visualization with R Shiny"
+title: "Advancing Nursing Research through Interactive Data Visualization with R Shiny"
 author: "Lacey W. Heinsberg"
 date: "`r format(Sys.time(), '%B %d, %Y, %R')`"
 output:
@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # About 
 
-This repository contains R markdown code for use with "Advancing Nursing Research through Dynamic Data Visualization with R Shiny" [LINK TO PAPER TO BE ADDED WHEN AVAILABLE]. 
+This repository contains R markdown code for use with "Advancing Nursing Research through Interactive Data Visualization with R Shiny" [LINK TO PAPER TO BE ADDED WHEN AVAILABLE]. 
 
 The purpose of this paper was to highlight the benefits of R for scientific data visualization, with a specific focus on creating dynamic, interactive figures using the R shiny package. The purpose of this repository is to provide annotated example code as a tutorial for building shiny applications in R. This markdown contains code to build three example shiny applications of increasing complexity. 
 
