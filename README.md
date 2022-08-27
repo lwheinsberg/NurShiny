@@ -17,8 +17,7 @@ programs.
 # About
 
 This repository contains R markdown code for use with “Advancing Nursing
-Research through Interactive Data Visualization with R Shiny” \[LINK TO
-PAPER TO BE ADDED WHEN AVAILABLE\].
+Research through Interactive Data Visualization with R Shiny” \[https://doi.org/10.1177/10998004221121109\].
 
 The purpose of the paper was to highlight the benefits of R for
 scientific data visualization, with a specific focus on creating
